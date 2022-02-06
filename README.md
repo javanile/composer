@@ -25,10 +25,6 @@ services:
       - /tmp/:/tmp/
 ```
 
-## Credits
-
-Thank those who helped make this possible.
-
 ## License
 
 [MIT](LICENSE) © [Francesco Bianco](https://github.com/francescobianco).
