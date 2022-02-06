@@ -1,6 +1,6 @@
 # composer
 
-Improoved version of Official [Composer](https://hub.docker.com/_/composer) image with the following add-ons
+Improoved version of official [Composer](https://hub.docker.com/_/composer) image with the following add-ons
 
 - Support for local cache (speed up 10x your development environment)
 
