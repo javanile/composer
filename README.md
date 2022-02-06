@@ -12,7 +12,7 @@ Standalone usage, copy and paste the following command to install your dependenc
 docker run --rm -it -v /tmp -v $PWD:/app javanile/composer install
 ```
 
-with Docker Compose
+with Docker Compose, copy and paste the following service if you use the docker compose file as [task or job runnner](https://github.com/javanile/docker-compose-job)
 
 ```yaml
 version: "3"
